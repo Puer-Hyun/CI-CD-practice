@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Lecture-Note/CI-CD-practice/mlflow-practice/mlruns/265679309497078035/1922b6c598594e46be147b9129f2b5f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '265679309497078035'
+lifecycle_stage: active
+run_id: 1922b6c598594e46be147b9129f2b5f2
+run_name: sneaky-grouse-79
+run_uuid: 1922b6c598594e46be147b9129f2b5f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688439326185
+status: 1
+tags: []
+user_id: silkcoop

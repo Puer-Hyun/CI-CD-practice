@@ -1,0 +1,6 @@
+artifact_location: file:///D:/Lecture-Note/CI-CD-practice/mlflow-practice/mlruns/265679309497078035
+creation_time: 1688434200075
+experiment_id: '265679309497078035'
+last_update_time: 1688434200075
+lifecycle_stage: active
+name: my-test
